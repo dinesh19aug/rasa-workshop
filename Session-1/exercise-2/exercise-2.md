@@ -6,7 +6,7 @@
 - Delete all intents other than greet and goodbye.
 - Based on the flow, you need an intent for customer queries, additional question from bot if it needs information from custome like zipcode or city and  bot responses to customer queries.
 
-- Creat a intent for how users wold provide thier location. Ex: List of cities that user may provide. Add internt:inform as below
+- Creat a intent for how users would provide thier location. Ex: List of cities that user may provide. Add internt:inform as below
 ```
 ## intent:inform
 - Charlotte
